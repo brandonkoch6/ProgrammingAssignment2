@@ -54,10 +54,10 @@ cacheSolve <- function(x, ...) {
 }
 
 ## You may test the functions with the code below:
-## test_matrix <- cbind(c(4,2),c(7,6))
+## test_matrix <- cbind(c(5,7),c(8,10))
 ## cached_matrix <- makeCacheMatrix(test_matrix)
 ## cacheSolve(cached_matrix)
 ##Solution:
 ##      [,1] [,2]
-##[1,]  0.6 -0.7
-##[2,] -0.2  0.4
+##[1,]  -1.67 1.33
+##[2,]  1.167  -0.83
